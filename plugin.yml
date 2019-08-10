@@ -1,0 +1,9 @@
+name: SimpleTrades
+main: me.valk.simpletrades.SimpleTrades
+author: valkyrienyanko
+version: "1.0"
+api-version: "1.14"
+commands:
+   simpletrades:
+     description: For all simple trades related commands.
+     aliases: [st]
